@@ -11,6 +11,7 @@
 [Mm]emoryCaptures/
 Assets/AssetStoreTools*
 [Pp]ackages/
+1801042601_HW1/Packages/com.ptc.vuforia.engine-10.10.2.tgz
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
